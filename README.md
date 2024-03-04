@@ -1,5 +1,5 @@
 <h1 align="center">
-<strong>Welcome to Trissiklikk <a href="https://github.com/Trissiklikk">Github</a></strong>
+<strong>Welcome to Trissiklikk <a href="https://github.com/Trissiklikk">Github</a> & <a href="https://gist.github.com/Trissiklikk">Gists</a></strong>
 </h1>
 
 <details>
