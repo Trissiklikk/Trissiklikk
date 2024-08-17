@@ -45,6 +45,7 @@ Role : <b>Game Developer</b> <br>
 - Node.js
 
 ## Working Experience
+### [FairPlay Studios](https://fairplaystudios.net/)
 ### [Vonder Game Co.,Ltd.](https://www.facebook.com/VonderGames/)
 ### [CoinTalk Co.,Ltd.](https://cointalk.co.th/)
 ### [Loxley Simulation Technology Co.,Ltd.](https://loxsim.com/)
